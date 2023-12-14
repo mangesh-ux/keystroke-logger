@@ -1,0 +1,2 @@
+pynput==1.7.6
+paramiko==2.11.0
